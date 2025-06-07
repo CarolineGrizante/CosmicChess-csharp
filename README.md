@@ -25,25 +25,26 @@ O jogo segue as **regras tradicionais do xadrez**, mas apresenta uma ambientaç�
 - .NET Desktop Runtime (versão compatível com seu projeto WPF)
 - Windows 10 ou superior
 
-## 📸 Capturas de tela
+<h2>📸 Capturas de tela</h2>
+<p>Veja algumas imagens do jogo em ação:</p>
 
-Veja algumas imagens do jogo em ação:
+<p align="center">
+  <strong>Tabuleiro inicial</strong><br/>
+  <img src="ChessImages/Chess-1.png" alt="Tabuleiro inicial" width="800"/>
+</p>
 
-### Tabuleiro inicial
-![Tabuleiro inicial](ChessImages/Chess-1.png)
+<p align="center">
+  <strong>Jogabilidade</strong><br/>
+  <img src="ChessImages/Chess-2.png" alt="Jogabilidade 1" width="800"/><br/>
+  <img src="ChessImages/Chess-3.gif" alt="Jogabilidade 2" width="800"/><br/>
+  <img src="ChessImages/Chess-4.gif" alt="Jogabilidade 3" width="800"/>
+</p>
 
-### Jogabilidade
-![Jogabilidade](ChessImages/Chess-2.png)
-
-![Jogabilidade](ChessImages/Chess-3.gif)
-
-![Jogabilidade](ChessImages/Chess-4.gif)
-
-### Fim de jogo
-![Fim de partida](ChessImages/Chess-5.png)
-
-![Fim de partida](ChessImages/Chess-6.png)
-
+<p align="center">
+  <strong>Fim de jogo</strong><br/>
+  <img src="ChessImages/Chess-5.png" alt="Fim de partida 1" width="800"/><br/>
+  <img src="ChessImages/Chess-6.png" alt="Fim de partida 2" width="800"/>
+</p>
 
 ### Instalação
 
