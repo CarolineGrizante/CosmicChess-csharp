@@ -30,20 +30,20 @@ O jogo segue as **regras tradicionais do xadrez**, mas apresenta uma ambientaç�
 
 <p align="center">
   <strong>Tabuleiro inicial</strong><br/>
-  <img src="ChessImages/Chess-1.png" alt="Tabuleiro inicial" width="800"/>
+  <img src="ChessImages/Chess-1.png" alt="Tabuleiro inicial" width="600"/>
 </p>
 
 <p align="center">
   <strong>Jogabilidade</strong><br/>
-  <img src="ChessImages/Chess-2.png" alt="Jogabilidade 1" width="800"/><br/>
-  <img src="ChessImages/Chess-3.gif" alt="Jogabilidade 2" width="800"/><br/>
-  <img src="ChessImages/Chess-4.gif" alt="Jogabilidade 3" width="800"/>
+  <img src="ChessImages/Chess-2.png" alt="Jogabilidade 1" width="600"/><br/>
+  <img src="ChessImages/Chess-3.gif" alt="Jogabilidade 2" width="600"/><br/>
+  <img src="ChessImages/Chess-4.gif" alt="Jogabilidade 3" width="600"/>
 </p>
 
 <p align="center">
   <strong>Fim de jogo</strong><br/>
-  <img src="ChessImages/Chess-5.png" alt="Fim de partida 1" width="800"/><br/>
-  <img src="ChessImages/Chess-6.png" alt="Fim de partida 2" width="800"/>
+  <img src="ChessImages/Chess-5.png" alt="Fim de partida 1" width="600"/><br/>
+  <img src="ChessImages/Chess-6.png" alt="Fim de partida 2" width="600"/>
 </p>
 
 ### Instalação
