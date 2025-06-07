@@ -34,11 +34,14 @@ Veja algumas imagens do jogo em ação:
 
 ### Jogabilidade
 ![Jogabilidade](ChessImages/Chess-2.png)
+
 ![Jogabilidade](ChessImages/Chess-3.gif)
+
 ![Jogabilidade](ChessImages/Chess-4.gif)
 
 ### Fim de jogo
 ![Fim de partida](ChessImages/Chess-5.png)
+
 ![Fim de partida](ChessImages/Chess-6.png)
 
 
