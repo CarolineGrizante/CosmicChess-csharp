@@ -49,4 +49,4 @@ Veja algumas imagens do jogo em ação:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cosmic-chess.git
+   git clone https://github.com/CarolineGrizante/CosmicChess-csharp.git
